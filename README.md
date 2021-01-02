@@ -7,7 +7,7 @@
 ### Current Status 💻
 
 <a href="https://github.com/siriusctrl?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusctrl&hide_langs_below=1&theme=onedark&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusctrl&hide_langs_below=1&theme=onedark&hide=html,jupyter notebook" />
 </a>
 
 <a href="https://github.com/siriusctrl?tab=repositories">
