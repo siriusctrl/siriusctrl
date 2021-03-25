@@ -1,8 +1,8 @@
 ### Hi There 👋
 
-- 🌱 I’m currently learning: Deep reinforcement learning
+- 🌱 I’m currently learning: Deep reinforcement learning and Apache Storm
 - 😄 Pronouns: He
-- 💼 Things that I'm currently working on: Trying to work out some math behind some DRL algorithm
+- 💼 Things that I'm currently working on: Research Proposal
 
 ### Current Status 💻
 
