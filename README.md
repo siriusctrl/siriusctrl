@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-- 🌱 I’m currently learning: MARL and autonomous agent making robust decision under deep uncertainty
+- 🌱 I’m currently learning: Offline Reinforcement Learning
 - 😄 Pronouns: He
 - 💼 Things that I'm currently working on: Master thesis
 
