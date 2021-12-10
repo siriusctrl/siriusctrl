@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: Offline Reinforcement Learning
 - 😄 Pronouns: He
-- 💼 Things that I'm currently working on: Master thesis
+- 💼 Things that I'm currently working on: Many things
 
 ### Current Status 💻
 
