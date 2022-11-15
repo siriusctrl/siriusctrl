@@ -1,8 +1,8 @@
 ### Hi There 👋
 
-- 🌱 I’m currently learning: Offline Reinforcement Learning
+- 🌱 I’m currently learning: LLM
 - 😄 Pronouns: He
-- 💼 Things that I'm currently working on: Many things
+- 💼 Things that I'm currently working on: Finetune LLM
 
 ### Current Status 💻
 
