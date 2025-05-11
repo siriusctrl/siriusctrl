@@ -1,8 +1,8 @@
 ### Hi There 👋
 
-- 🌱 I’m currently learning: Distributed architecture for training LLM
+- 🌱 I’m currently learning: Investing
 - 😄 Pronouns: He
-- 💼 Things that I'm currently working on: Training, instruction finetuning LLM and RLHF
+- 💼 Things that I'm currently working on: Training LLM-powered Agents using RL
 
 ### Current Status 💻
 
